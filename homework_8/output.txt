@@ -1,0 +1,17 @@
+Script started on Sat 04 Apr 2020 03:32:14 PM HST
+]0;skutty@uhx02:~/ics212/hw8[?1034huhx02:/home/s/skutty/ics212/hw8% ./homework8
+
+ *******This program converts inches to centimeters.******** 
+Please enter maximum integers to show: 3
+inch          cm 
+0.00        0.00
+0.50        1.27
+1.00        2.54
+1.50        3.81
+2.00        5.08
+2.50        6.35
+3.00        7.62
+]0;skutty@uhx02:~/ics212/hw8uhx02:/home/s/skutty/ics212/hw8% exit
+exit
+
+Script done on Sat 04 Apr 2020 03:32:24 PM HST

@@ -1,0 +1,7 @@
+Script started on Sat 04 Apr 2020 03:31:11 PM HST
+]0;skutty@uhx02:~/ics212/hw8[?1034huhx02:/home/s/skutty/ics212/hw8% exit[2Plsvi homework8.cpp[10Pcd hw8[3@mkdir[C[C[C[Cls[Kcd ics212[5Pexit[2Plszip -r homework7b.zip 7bls[Kcd ..[3Plsclearmake clean[K[K[K[K[K[K[K[K[K[Kg++ -ansi-[K -pedantic-errors -Wall -c homework8.cpp
+]0;skutty@uhx02:~/ics212/hw8uhx02:/home/s/skutty/ics212/hw8% g++ -o homework8 homework8.o
+]0;skutty@uhx02:~/ics212/hw8uhx02:/home/s/skutty/ics212/hw8% exit
+exit
+
+Script done on Sat 04 Apr 2020 03:32:05 PM HST
