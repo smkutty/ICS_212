@@ -1,0 +1,112 @@
+Script started on Sun 16 Feb 2020 10:55:54 PM HST
+]0;skutty@uhx02:~/ics212/hw3/hw3b[?1034huhx02:/home/s/skutty/ics212/hw3/hw3b% ./hw3b test
+./hw3b insufficient arguments 
+]0;skutty@uhx02:~/ics212/hw3/hw3buhx02:/home/s/skutty/ics212/hw3/hw3b% ./hw3b debug
+
+ 
+ ~~ This is the Bank Databse ~~ 
+ To continue please select an option below by typing a number from 1-6. 
+1. Add a new record in the database 
+2. Print information about a record using the account # as a key 
+3. Print all records in the databse 
+4. Modify the address field of a record specified by account number 
+5. Delete an existing record from the databse using the account # as a ke 
+6. Quit the program 
+ 
+Choosing option:  1
+Enter new account number:  123   -12   123
+Enter new name:  Sreelakshmi KU             ara Little
+Enter new address (press $ to end address):   123 hiaku    aiku rd
+APT # 45 ka  Kailu     Heeia
+96744$
+
+ This is a temporary message - addRecord successfully called
+ Your account numer is: 123
+ Your name is: Sara Little
+ Your address is: 123 haiku rd
+APT # 45 Heeia
+96744
+ 
+ ~~ This is the Bank Databse ~~ 
+ To continue please select an option below by typing a number from 1-6. 
+1. Add a new record in the database 
+2. Print information about a record using the account # as a key 
+3. Print all records in the databse 
+4. Modify the address field of a record specified by account number 
+5. Delete an existing record from the databse using the account # as a ke 
+6. Quit the program 
+ 
+Choosing option:  2
+
+ Enter the account number you wish to print:  -12
+Account number must be positive. Please try again:  13
+
+ This is a temporary message - printRecrod successfully called
+ Printing account: 13
+ 
+ ~~ This is the Bank Databse ~~ 
+ To continue please select an option below by typing a number from 1-6. 
+1. Add a new record in the database 
+2. Print information about a record using the account # as a key 
+3. Print all records in the databse 
+4. Modify the address field of a record specified by account number 
+5. Delete an existing record from the databse using the account # as a ke 
+6. Quit the program 
+ 
+Choosing option:  3
+Printing all records
+ This is a temporary message - printAllRecords successful
+ Printing all records
+ 
+ ~~ This is the Bank Databse ~~ 
+ To continue please select an option below by typing a number from 1-6. 
+1. Add a new record in the database 
+2. Print information about a record using the account # as a key 
+3. Print all records in the databse 
+4. Modify the address field of a record specified by account number 
+5. Delete an existing record from the databse using the account # as a ke 
+6. Quit the program 
+ 
+Choosing option:  4
+
+ Enter the the account number you wish to modify:  45s
+Please enter new address: 123 haiu    dole correa        
+##%    37 @ east west 968   $
+
+ This is a temporary message - modifyRecord successfully called
+ Modifying account: 45
+ New address: 
+123 dole 
+#37 @ east west 
+ 
+ ~~ This is the Bank Databse ~~ 
+ To continue please select an option below by typing a number from 1-6. 
+1. Add a new record in the database 
+2. Print information about a record using the account # as a key 
+3. Print all records in the databse 
+4. Modify the address field of a record specified by account number 
+5. Delete an existing record from the databse using the account # as a ke 
+6. Quit the program 
+ 
+Choosing option:  5
+
+ Enter the account number you wish to delete:  133
+
+ This is a temporary message - deleteRecord successful
+ Deleting record: 133
+ 
+ ~~ This is the Bank Databse ~~ 
+ To continue please select an option below by typing a number from 1-6. 
+1. Add a new record in the database 
+2. Print information about a record using the account # as a key 
+3. Print all records in the databse 
+4. Modify the address field of a record specified by account number 
+5. Delete an existing record from the databse using the account # as a ke 
+6. Quit the program 
+ 
+Choosing option:  6
+
+You have exited this program.]0;skutty@uhx02:~/ics212/hw3/hw3buhx02:/home/s/skutty/ics212/hw3/hw3b% exit
+exit
+
+Script done on Sun 16 Feb 2020 10:58:26 PM HST

@@ -1,0 +1,9 @@
+Script started on Sun 16 Feb 2020 10:54:37 PM HST
+]0;skutty@uhx02:~/ics212/hw3/hw3b[?1034huhx02:/home/s/skutty/ics212/hw3/hw3b% make
+gcc -ansi -pedantic-errors -Wall -c database.c
+gcc -ansi -pedantic-errors -Wall -c user_interface.c
+gcc database.o user_interface.o -o hw3b
+]0;skutty@uhx02:~/ics212/hw3/hw3buhx02:/home/s/skutty/ics212/hw3/hw3b% .[Kexit
+exit
+
+Script done on Sun 16 Feb 2020 10:54:58 PM HST
