@@ -1,0 +1,6 @@
+PROJECT 2 SUMMARY
+Sreelakshmi Kutty
+
+In this project, the main issue I found was with the readfile function. When executed, the function seems to add an extra record with pieces of information --> for account number it takes the previous record's number, for name it is blank, and for address it gives a line of question marks. However, I am able to delete this extra record and proceed normally. Everything else seems to be working well.  
+
+In the future, I would like the input file (input.txt) to be written with parameter titles and record titles. However, the function should recognize what is a title and what is the actual value and store the appropriate information in the parameter variables when calling addRecord. Additionally, I would liked to spend more time on the formatting of how things are displayed on the terminal window. 
