@@ -1,0 +1,30 @@
+Script started on Mon 23 Mar 2020 02:45:39 PM HST
+]0;skutty@uhx02:~/ics212/hw7/7a[?1034huhx02:/home/s/skutty/ics212/hw7/7a% ./homeworka[K7a
+
+ Test 1: 0 miles
+ Expected: $0.0
+ Printing: $0.00 
+
+ Test 2: 1 mile
+ Expected: $300.00
+ Printing: $300.00 
+
+ Test 3: 3 miles
+ Expected: $900.00
+ Printing $900.00 
+
+ Test 4: 4 miles
+ Expected: $1250.00
+ Prinitng: $1250.00 
+
+ Test 5: 13 miles
+ Expected: $4000.00
+ Printing: $4000.00 
+
+ Test 6: -1 miles
+ Expected: $0.00
+ Printing: $0.00 
+]0;skutty@uhx02:~/ics212/hw7/7auhx02:/home/s/skutty/ics212/hw7/7a% exit
+exit
+
+Script done on Mon 23 Mar 2020 02:45:51 PM HST

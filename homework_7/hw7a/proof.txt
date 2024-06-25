@@ -1,0 +1,9 @@
+Script started on Mon 23 Mar 2020 02:45:23 PM HST
+]0;skutty@uhx02:~/ics212/hw7/7a[?1034huhx02:/home/s/skutty/ics212/hw7/7a% make
+gcc -c -ansi -pedantic-errors -Wall driver.c
+gcc -c -ansi -pedantic-errors -Wall paint.c
+gcc driver.o paint.o -o homework7a
+]0;skutty@uhx02:~/ics212/hw7/7auhx02:/home/s/skutty/ics212/hw7/7a% exit
+exit
+
+Script done on Mon 23 Mar 2020 02:45:30 PM HST
