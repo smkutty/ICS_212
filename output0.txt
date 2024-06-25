@@ -1,0 +1,9 @@
+Script started on Sun 19 Jan 2020 06:22:35 PM HST
+]0;skutty@uhx02:~[?1034huhx02:/home/s/skutty% /ho[K[K[K./homework0
+Name:    Sreelakshmi Kutty
+Hello World
+ICS212 Program Structure
+]0;skutty@uhx02:~uhx02:/home/s/skutty% exit
+exit
+
+Script done on Sun 19 Jan 2020 06:23:30 PM HST

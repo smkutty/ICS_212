@@ -1,0 +1,7 @@
+Script started on Sun 19 Jan 2020 06:20:43 PM HST
+]0;skutty@uhx02:~[?1034huhx02:/home/s/skutty% gcc -ansi -pedantic [K-errors -Wall -c homework0.c
+]0;skutty@uhx02:~uhx02:/home/s/skutty% gcc -o homework0 homework0.c[Ko
+]0;skutty@uhx02:~uhx02:/home/s/skutty% exit
+exit
+
+Script done on Sun 19 Jan 2020 06:21:42 PM HST
