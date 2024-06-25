@@ -1,0 +1,15 @@
+Name: Sreelakshmi Kutty
+Course: ICS 212
+Professor: Ravi Narayan
+Due: 2 Feb 2020
+
+1. Describe the purpose of the make utility. Why do people use the make utility?
+The make utility is used to define which source and object files are dependent on each other. The programmer can use a makefile to tell the utility to recompile or link specific source files. Programmers use this function to easily compile and link multiple source and "include" files that use each other's contents.
+
+2. Discus the benefits of using the make utility.
+Using the make utility decreases complexity and increases efficiency when a project involves multiple source files. Instead of having to individually compile each file and create an executable for each, the makefile allows you to target specific parts of each file and only compile those parts into object files that are linked together to create an overall executable. This is particularly helpful when handling hundreds or thousands of source files that need to be linked.
+
+3. Explain in your own words how the make utility works.
+The make utility uses a makefile that defines specific targets and their respective dependencies. It'll go through each dependency and will then execute the commands for every target. In this way, the utility can pick the necessary portions of code from each source file and create object files, which are then compiled and linked to create an executable. If any source file is updated, only its respective object file must be recompiled. 
+
+
