@@ -1,0 +1,15 @@
+
+Name, Address, Data type, Scope, Value
+argc, 0x7ffd20e6f0cc, int, main, ???
+argv, 0x7ffd20e6f0c0, char, main, ???
+num1, 0x7ffd20e6f0ec, int, main, ???
+num2, 0x7ffd20e6f0e8, int main, 5
+c, 0x7ffd20e6f0e7, char, main, 'A'
+score1, 0x7ffd20e6f0e0, float, main, 25.5
+ca[0], 0x7ffd20e6f0d0, char, main, 'H'
+ca[1], 0x7ffd20e6f0d1, char, main, 'i'
+ca[2], 0x7ffd20e6f0d2, char, main, ''
+x, 0x7ffd20e6f0ac, int, dummy, 0x7ffd20e6f0e8
+y, 0x7ffd20e6f0a8, char, dummy, 0x7ffd20e6f0e7
+z, 0x7ffd20e6f0a0, char, dummy, &ca
+w, 0x7ffd20e6f09c, float, dummy, 0x7ffd20e6f0e0
