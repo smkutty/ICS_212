@@ -1,0 +1,35 @@
+---------------------------------------------------------------------------
+addRecord
+
+*** Assume the following variables are already defined. ***
+
+- start: The pointer to the first record of the list (or NULL)
+- uaccountno: The user's account number (interger)
+- uname: a character array containing the user's name
+- uaddress: a character array containing the user's address
+----------------------------------------------------------------------------
+
+define an int called added
+define a pointer to record called temp
+allocate heap space and set address to temp
+
+copy from temp to start in the record WITH PREVIOUS ADDRESS
+
+
+copy from uaccountno to accountno in the record whose address is in temp
+copy from uname to name in the record whose address is in temp
+copy from uaddress to address in the record whose address is in temp
+copy from NULL to start in the record whose address is in temp
+
+return added
+
+
+my notes:
+1. allocate heap space, set address to temp
+2. previous record start = temp
+3. add accountno to list
+4. put values into record
+
+
+
+
