@@ -1,0 +1,147 @@
+Script started on Tue 31 Mar 2020 09:05:41 PM HST
+]0;skutty@uhx02:~/ics212/hw7/7b[?1034huhx02:/home/s/skutty/ics212/hw7/7b% ./homework7b
+
+ *** IMAGE 1 *** 1 *** 1 *** 1 *** 1 *** 1 *** 1 *** 
+Width: 500 
+Height: 400 
+
+ Color 1 *************** 
+R: d9 
+G: bf 
+B: ff 
+
+ Color 2 *************** 
+R: 0 
+G: ff 
+B: 5f 
+
+ Color 3 *************** 
+R: 0 
+G: ff 
+B: fa 
+
+ Color 4 *************** 
+R: a4 
+G: 0 
+B: ff 
+Modified image1 data ----------- 
+Width: 500 
+Height: 400 
+
+ Color 1 *************** 
+R: 64 
+G: fc 
+B: fc 
+
+ Color 2 *************** 
+R: 0 
+G: ff 
+B: d7 
+
+ Color 3 *************** 
+R: 0 
+G: ff 
+B: fa 
+
+ Color 4 *************** 
+R: 84 
+G: 0 
+B: ff 
+
+ *** IMAGE 2 *** 2 *** 2 *** 2 *** 2 *** 2 *** 2 *** 
+Width: 260 
+Height: 300 
+
+ Color 1 *************** 
+R: ff 
+G: ff 
+B: ff 
+
+ Color 2 *************** 
+R: ff 
+G: ff 
+B: 0 
+
+ Color 3 *************** 
+R: ff 
+G: 92 
+B: 0 
+
+ Color 4 *************** 
+R: ff 
+G: 2b 
+B: 0 
+Modified image2 data ----------- 
+Width: 260 
+Height: 300 
+
+ Color 1 *************** 
+R: fc 
+G: fc 
+B: fc 
+
+ Color 2 *************** 
+R: de 
+G: ff 
+B: 0 
+
+ Color 3 *************** 
+R: de 
+G: 29 
+B: 0 
+
+ Color 4 *************** 
+R: de 
+G: b2 
+B: 0 
+
+ *** IMAGE 3 *** 3 *** 3 *** 3 *** 3 *** 3 *** 3 *** 
+Width: 395 
+Height: 398 
+
+ Color 1 *************** 
+R: ef 
+G: da 
+B: d1 
+
+ Color 2 *************** 
+R: e4 
+G: b 
+B: 1f 
+
+ Color 3 *************** 
+R: ff 
+G: 87 
+B: 9b 
+
+ Color 4 *************** 
+R: 0 
+G: 0 
+B: 0 
+Modified image3 data ----------- 
+Width: 395 
+Height: 398 
+
+ Color 1 *************** 
+R: bc 
+G: 68 
+B: 44 
+
+ Color 2 *************** 
+R: c4 
+G: b0 
+B: 97 
+
+ Color 3 *************** 
+R: fc 
+G: 1c 
+B: 6c 
+
+ Color 4 *************** 
+R: 0 
+G: 0 
+B: 0 
+]0;skutty@uhx02:~/ics212/hw7/7buhx02:/home/s/skutty/ics212/hw7/7b% exit
+exit
+
+Script done on Tue 31 Mar 2020 09:06:04 PM HST

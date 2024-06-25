@@ -1,0 +1,9 @@
+Script started on Tue 31 Mar 2020 09:05:25 PM HST
+]0;skutty@uhx02:~/ics212/hw7/7b[?1034huhx02:/home/s/skutty/ics212/hw7/7b% make
+gcc -ansi -pedantic-errors -Wall -c main.c
+gcc -ansi -pedantic-errors -Wall -c functions.c
+gcc main.o functions.o -o homework7b
+]0;skutty@uhx02:~/ics212/hw7/7buhx02:/home/s/skutty/ics212/hw7/7b% exit
+exit
+
+Script done on Tue 31 Mar 2020 09:05:31 PM HST
