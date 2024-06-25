@@ -1,0 +1,9 @@
+Script started on Tue 03 Mar 2020 04:33:22 PM HST
+]0;skutty@uhx02:~/ics212/hw5[?1034huhx02:/home/s/skutty/ics212/hw5% make e[K[K
+gcc -ansi -pedantic-errors -Wall -c driver.c
+gcc -ansi -pedantic-errors -Wall -c iofunctions.c
+gcc -o homework5 driver.o iofunctions.o
+]0;skutty@uhx02:~/ics212/hw5uhx02:/home/s/skutty/ics212/hw5% exit
+exit
+
+Script done on Tue 03 Mar 2020 04:33:36 PM HST

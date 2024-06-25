@@ -1,0 +1,39 @@
+Script started on Tue 03 Mar 2020 04:33:44 PM HST
+]0;skutty@uhx02:~/ics212/hw5[?1034huhx02:/home/s/skutty/ics212/hw5% ./homework5 example_in.txt
+
+ **** Current number of customers: 5 
+ 
+TEST 1 READING INPUT ----------------- 
+Application has read file: example_in.txt 
+ 
+TEST 2 WRITING OUT ----------------
+Application wrote file: example_out.txt 
+ 
+TEST 3 READING CREATED FILE ---------------- 
+Application has read new file: example_out.txt  
+ 
+]0;skutty@uhx02:~/ics212/hw5uhx02:/home/s/skutty/ics212/hw5% cat example.out.t[K[K[K[K[K[K_out.txt
+1000
+name1
+1111 Dole St 
+
+1015
+name2
+2222 Dole St 
+
+1030
+name3
+3333 Dole St 
+
+1045
+name4
+4444 Dole St 
+
+1060
+name5
+5555 Dole St 
+
+]0;skutty@uhx02:~/ics212/hw5uhx02:/home/s/skutty/ics212/hw5% exit
+exit
+
+Script done on Tue 03 Mar 2020 04:34:12 PM HST
