@@ -1,0 +1,8 @@
+NAME: Sreelakshmi Kutty
+COURSE: ICS 212
+FILE: Summary.txt
+
+Summary of Testing
+
+The test plan created mainly assessed the functionality of the menu options, in particular, the add and delete options. I was able to successfully add records to an empty list, add records of the same account number, and add records to a non-empty list. I was also able to delete records from the start of a list, delete multiple records with the same account number, delete records from the end of a list, and provide an error message when deleting from an empty list.
+It was during the testing phase that I realized that the formatting of the output was not always ideal, especially when choosing the print/printall otpions. When printing all records, the statement "Printing all records" appeared on each record because I had mistakenly put that print statement inside the iteration loop. I also noticed that in debug mode, the debug feature message was not always printed in the best format. Additionally, I noticed that although the getName function in user_interface.c did not accept a name longer than 24 characters, the remaining letters spilled into the address portion because the buffer had not been cleared. This means that the getAddress function likely has the same error. 
